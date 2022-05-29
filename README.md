@@ -1,1 +1,1 @@
-# Scientific-GUI-Calculator
+# Scientific GUI Calculator using Tkinter in Python
